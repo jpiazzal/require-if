@@ -1,0 +1,22 @@
+{
+  "name": "require-if",
+  "version": "0.1.0",
+  "description": "Require a module or set a default behaviour",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpiazzal/require-if.git"
+  },
+  "keywords": [
+    "require"
+  ],
+  "author": "Joël Piazzalunga-Lerat <joel.piazzalungalerat@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpiazzal/require-if/issues"
+  },
+  "homepage": "https://github.com/jpiazzal/require-if#readme"
+}
