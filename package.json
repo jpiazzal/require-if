@@ -1,6 +1,6 @@
 {
   "name": "require-if",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Require a module or set a default behaviour",
   "main": "index.js",
   "scripts": {
